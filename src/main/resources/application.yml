@@ -86,7 +86,7 @@ api:
 
 feign:
   hystrix:
-    enabled: true
+    enabled: false
 
 hystrix:
   command:
